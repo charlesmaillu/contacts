@@ -21,7 +21,6 @@ body{
 }
 
 #navbar{
-    display: flex;
     background-color: #000000;
     color: white;
     
